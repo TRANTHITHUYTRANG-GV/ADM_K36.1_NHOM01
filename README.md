@@ -8,10 +8,10 @@ Dự án nghiên cứu và triển khai hệ thống **Kho dữ liệu (Data War
 
 | Họ và tên | Vai trò | Phân công công việc chính |
 | :--- | :--- | :--- |
-| **Lê Anh Kiệt** | **Leader / Reviewer** | Quản lý dự án, Review mã nguồn, Đánh giá & Tổng hợp báo cáo |
+| **Lê Anh Kiệt** | Member | Quản lý dự án, Review mã nguồn, Đánh giá & Tổng hợp báo cáo |
 | **Cao Thị Kim Hằng** | Member | Soạn thảo Chương 1 (Giới thiệu, RQ1–RQ3) & Định dạng file báo cáo chuẩn UEH |
 | **Đỗ Ngọc Hân** | Member | Soạn thảo Chương 2 (Cơ sở lý thuyết, Data Warehouse & Associative Classification) |
-| **Hồ Thanh Duy Khánh** | Member | Viết code Python (EDA, Tiền xử lý, Mining Apriori & Mô hình phân lớp, Kiểm định McNemar & Bootstrap) |
+| **Hồ Thanh Duy Khánh** | **Leader** | Viết code Python (EDA, Tiền xử lý, Mining Apriori & Mô hình phân lớp, Kiểm định McNemar & Bootstrap) |
 | **Trần Thị Thùy Trang** | Member | Xây dựng Data Warehouse (Star Schema) trên Google BigQuery, Trực quan hóa báo cáo trên Looker Studio | Check đạo văn
 | **Nguyễn Lê Hạnh Trang** | Member | Soạn thảo Chương 5 (Kết luận / Ý nghĩa & Hạn chế) 
 
