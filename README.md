@@ -4,16 +4,14 @@ Dự án nghiên cứu và triển khai hệ thống **Kho dữ liệu (Data War
 
 ---
 
-## 👨‍💻 Đội Ngũ Thực Hiện & Phân Công Công Việc (Group 01)
-
-| Họ và tên | Vai trò | Phân công công việc chính |
-| :--- | :--- | :--- |
-| **Lê Anh Kiệt** | Member | Quản lý dự án, Review mã nguồn, Đánh giá & Tổng hợp báo cáo |
-| **Cao Thị Kim Hằng** | Member | Soạn thảo Chương 1 (Giới thiệu, RQ1–RQ3) & Định dạng file báo cáo chuẩn UEH |
-| **Đỗ Ngọc Hân** | Member | Soạn thảo Chương 2 (Cơ sở lý thuyết, Data Warehouse & Associative Classification) |
-| **Hồ Thanh Duy Khánh** | **Leader** | Viết code Python (EDA, Tiền xử lý, Mining Apriori & Mô hình phân lớp, Kiểm định McNemar & Bootstrap) |
-| **Trần Thị Thùy Trang** | Member | Xây dựng Data Warehouse (Star Schema) trên Google BigQuery, Trực quan hóa báo cáo trên Looker Studio | Check đạo văn
-| **Nguyễn Lê Hạnh Trang** | Member | Soạn thảo Chương 5 (Kết luận / Ý nghĩa & Hạn chế) 
+| STT | Thành viên | MSSV | Vai trò | Nhiệm vụ phân công cụ thể |
+| :---: | :--- | :---: | :--- | :--- |
+| 1 | **Đỗ Ngọc Hân** *Member* | 526102180488 | ML Engineer & Reviewer | • Soạn thảo **Chương 2 (Tổng quan nghiên cứu & Lý thuyết nền tảng)**.<br> • Lập trình Python: Mô hình phân lớp (LR, DT, RF), Kiểm định thống kê (McNemar, Bootstrap).
+| 2 | **Hồ Thanh Duy Khánh** | 526102180487 | **Leader** | • Lập trình Python: Phân tích thăm dò dữ liệu (EDA), Tiền xử lý, Khai phá luật kết hợp (Apriori 1 chiều & Đa chiều).<br>• Soạn thảo **Chương 3 (Phương pháp luận)**. |
+| 3 | **Trần Thị Thùy Trang** | 526102180015 | Member | • Thiết kế Data Warehouse (Star Schema) & Viết truy vấn SQL (`ROLLUP`, `CUBE`) trên **Google BigQuery**.<br>• Xây dựng Dashboard báo cáo tương tác 4 trang trên **Looker Studio**.<br>• Soạn thảo **Chương 4 (Phần Data Warehouse & OLAP)**. |
+| 4 | **Lê Anh Kiệt** | 526102180484 | Member | Đồng soạn thảo **Chương 4 (Phần Kết quả Khai phá luật & Phân lớp)** dựa trên output code. | <br>• Review tổng thể mã nguồn, kiểm tra tính nhất quán dữ liệu & duyệt báo cáo cuối cùng. |
+| 5 | **Cao Thị Kim Hằng** | 526102180006 | Member | • Soạn thảo **Chương 1 (Giới thiệu, Mục tiêu & Câu hỏi nghiên cứu RQ1–RQ3)**.<br>• Định dạng (Format) toàn bộ file báo cáo Word chuẩn quy định UEH & Thiết kế Slide thuyết trình. |
+| 6 | **Nguyễn Lê Hạnh Trang** | 526102180506 | Member | • Soạn thảo **Chương 5 (Kết luận, Ý nghĩa, Hạn chế & Hướng phát triển)**.<br>• Chạy kiểm tra đạo văn (Plagiarism Check), rà soát lỗi trích dẫn APA & Quản lý GitHub. |
 
 ---
 
